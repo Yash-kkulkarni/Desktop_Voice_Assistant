@@ -1,0 +1,43 @@
+
+ PERO VS BOT | PERO
+
+ - | O | X 
+ ---------- 
+ - | X | O 
+ ----------
+ X | - | -
+
+
+
+
+
+
+ PRASAD VS BOT | PRASAD
+
+ X | O | O 
+ ---------- 
+ - | X | - 
+ ----------
+ - | - | X
+
+
+
+ PRASAD VS BOT | BOT
+
+ X | X | O 
+ ---------- 
+ X | O | O 
+ ----------
+ O | - | X
+
+
+
+ SHIVANI VS PRASAD | SHIVANI
+
+ O | X | O 
+ ---------- 
+ - | X | - 
+ ----------
+ - | X | -
+
+
